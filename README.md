@@ -10,7 +10,7 @@ Execute the .bat file and answer any of the follow-up questions.
 Should you encounter any issues/errors, make sure to create an issue on github and I will respond to it.
 
 #**HOW IT WORKS:**
-The functionality is quite simple, I manually update the AoE2DE files on itch.io, what the program actually does it replace any files with the same name but different data, or add any new files that have been created in the update.
+The functionality is quite simple, I manually update the AoE2DE files on itch.io, what the program actually does is replace any files with the same name but different data, or add any new files that have been created in the update.
 Once this is done, it checks for any duplicates and then removes the older duplicate by checking which file is the same file as uploaded by me on itch.io.
 It does this using butler (not created by me, created by itch.io) to pull the files off of itch.io.
 Keep in mind, though, that any of the dlc's will not receive updates, or any dlc's that are added, be added to the pirated copy, as I do not own them, and only own the base legitimate copy of AoE2DE.
