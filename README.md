@@ -4,8 +4,8 @@ Currently, the itch.io files online need to be updated by me manually, (this is 
 #**HOW TO USE IT:**
 1. Navigate to config.txt located in the config folder, inside you will see this: FileDestinationPath=
 Directly after the =, place the path that you want the files to be copied to (the AoE2DE folder).
-(REMEMBER, DO NOT PLACE A SPACE AFTER THE =, PLACE THE FILE PATH DIRECTLY AFTER THE =)
-2. Navigate to the update.bat file inside of the autoUpdate folder.
+ Example: "FileDestinationPath=path/to/folder
+3. Navigate to the update.bat file inside of the autoUpdate folder.
 Execute the .bat file and answer any of the follow-up questions.
 Should you encounter any issues/errors, make sure to create an issue on github and I will respond to it.
 
